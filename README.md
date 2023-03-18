@@ -21,4 +21,4 @@ To build onc, run
 npm run build
 ```
 
-![Alt text](images/bookmark-manager.png)
+![Alt text](images/bookmark-manager.jpeg)
